@@ -64,7 +64,7 @@ $ git clone https://github.com/leodev0/mongo-api
 # Access
 $ cd mongo-api
 
-# Add the MongoDB connection string on 
+# Add the MongoDB connection string at 
 $ mongo-api/appsettings.json
 
 # Compile and run the project
